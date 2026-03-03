@@ -4,7 +4,7 @@ from tools import tools
 from pydantic import BaseModel
 from langgraph.checkpoint.memory import InMemorySaver
 from tools import llm
-from langchain.agents import create_agent
+from langgraph.prebuilt import create_react_agent
 
 
 class Request(BaseModel):
@@ -24,7 +24,7 @@ with open("system_prompt.txt", "r") as f:
     prompt = f.read()
 
 
-agent = create_agent(llm, tools = tools, system_prompt = prompt, checkpointer=InMemorySaver())
+agent = create_react_agent(llm, tools=tools, prompt=prompt, checkpointer=InMemorySaver())
 
 @app.post("/chat")
 def chat(request: Request):

@@ -26,8 +26,11 @@ faq_store = Chroma(collection_name="faq", embedding_function=embed_model)
 product_store = Chroma(collection_name="products", embedding_function=embed_model)
 
 
-faq_store.add_documents(faq_docs)
-product_store.add_documents(product_doc)
+if faq_store._collection.count() == 0:
+    faq_store.add_documents(faq_docs)
+
+if product_store._collection.count() == 0:
+    product_store.add_documents(product_doc)
 
 
 @tool
@@ -38,7 +41,7 @@ def answer_faq(query: str):
         (f"Source: {doc.metadata}\nContent: {doc.page_content}")
         for doc in retrieved_docs
     )
-    return serialized, retrieved_docs
+    return serialized
 
 @tool
 def give_product_info(query: str):
