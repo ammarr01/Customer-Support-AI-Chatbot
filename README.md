@@ -1,6 +1,7 @@
 # AI Agent Customer Support RAG Chatbot
 
 An intelligent AI agent that automates customer support for businesses, providing instant responses while maintaining conversation context. Built to reduce support costs, improve response times, and enhance customer satisfaction through autonomous problem-solving capabilities.
+<img width="1835" height="936" alt="{F0E9B500-F027-4E7A-B045-1373351F94AF}" src="https://github.com/user-attachments/assets/d1828b06-7da8-4cd6-afd0-ce72b036a62b" />
 
 ## Use Cases
 
