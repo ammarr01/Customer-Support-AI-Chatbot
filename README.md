@@ -18,6 +18,10 @@ https://github.com/user-attachments/assets/1e617f23-e335-4572-acdb-c22d8996cc03
 
 
 ## Live link: try it out for yorself
+**NB**: the chatbot was deployed on a random sites as a chat widget for demo purposes only, here's the link
+
+https://gocart-production-dfb2.up.railway.app/
+
 
 
 ## Use Cases
