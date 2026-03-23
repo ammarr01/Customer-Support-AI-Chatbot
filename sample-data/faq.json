@@ -28,7 +28,7 @@
       "id": 5,
       "category": "Returns & Exchanges",
       "question": "What is your return policy?",
-      "answer": "We accept returns within 30 days of delivery for unopened products in original packaging. Opened products can be returned if you're not satisfied, minus a 20% restocking fee."
+      "answer": "We accept returns within 30 days of delivery for items in original condition and packaging. Opened or used electronics may be subject to a 15% restocking fee."
     },
     {
       "id": 6,
@@ -44,33 +44,33 @@
     },
     {
       "id": 8,
-      "category": "Products & Ingredients",
-      "question": "Are your products cruelty-free?",
-      "answer": "Yes, all our products are 100% cruelty-free and never tested on animals. We're certified by Leaping Bunny and PETA."
+      "category": "Products & Compatibility",
+      "question": "Are your smart devices compatible with Alexa and Google Assistant?",
+      "answer": "Most of our smart home products including the Smart Speaker and Security Camera are compatible with both Amazon Alexa and Google Assistant. Check the individual product page for compatibility details."
     },
     {
       "id": 9,
-      "category": "Products & Ingredients",
-      "question": "Do you have vegan options?",
-      "answer": "Yes, over 80% of our products are vegan. Look for the vegan badge on product pages, or use our vegan filter when shopping."
+      "category": "Products & Compatibility",
+      "question": "Is the Smart Pen compatible with all iPad models?",
+      "answer": "The Smart Pen for iPad is compatible with iPad Pro, iPad Air, and iPad mini models released after 2018. It is not compatible with older iPad models. Check the product page for the full compatibility list."
     },
     {
       "id": 10,
-      "category": "Products & Ingredients",
-      "question": "Are your products suitable for sensitive skin?",
-      "answer": "Many of our products are formulated for sensitive skin and are dermatologically tested. Check individual product pages for sensitive skin labels and patch test before full application."
+      "category": "Products & Compatibility",
+      "question": "Are the smartwatches compatible with both Android and iPhone?",
+      "answer": "Our smartwatches are compatible with both Android (8.0+) and iOS (12+). Full functionality including health tracking and notifications is supported on both platforms."
     },
     {
       "id": 11,
-      "category": "Products & Ingredients",
-      "question": "How do I know which products are right for my skin type?",
-      "answer": "Use our Skin Quiz tool on the homepage to get personalized recommendations, or filter products by skin type (dry, oily, combination, sensitive) on our shop page."
+      "category": "Products & Compatibility",
+      "question": "What is the water resistance rating on the Smart Watch Black?",
+      "answer": "The Smart Watch Black has a water resistance rating of 5ATM (50 meters). It is safe for swimming and rain but not suitable for scuba diving or high-pressure water sports."
     },
     {
       "id": 12,
-      "category": "Products & Ingredients",
-      "question": "What does clean beauty mean for your brand?",
-      "answer": "Our clean beauty standard means no parabens, sulfates, phthalates, synthetic fragrances, or harmful chemicals. View our full no-no list on our Ingredients page."
+      "category": "Products & Compatibility",
+      "question": "Does the Security Camera require a subscription for cloud storage?",
+      "answer": "Basic motion alerts and live viewing are free. Cloud storage for recorded footage requires a subscription starting at $3.99/month. Local storage via SD card (sold separately) is also supported."
     },
     {
       "id": 13,
@@ -82,37 +82,37 @@
       "id": 14,
       "category": "Orders & Payment",
       "question": "Can I modify or cancel my order?",
-      "answer": "Orders can be modified or cancelled within 1 hour of placement. Contact customer service immediately at support@brand.com or call us at 1-800-XXX-XXXX."
+      "answer": "Orders can be modified or cancelled within 1 hour of placement. Contact customer service immediately at support@gocart.com or use the live chat on our website."
     },
     {
       "id": 15,
       "category": "Orders & Payment",
       "question": "Do you offer gift wrapping?",
-      "answer": "Yes! Select the gift wrap option at checkout for $5. We'll include a personalized message card and elegant packaging."
+      "answer": "Yes! Select the gift wrap option at checkout for $5. We'll include a personalized message card and secure protective packaging."
     },
     {
       "id": 16,
-      "category": "Product Usage",
-      "question": "How long do your products last once opened?",
-      "answer": "Most products last 12-24 months after opening. Check the PAO (Period After Opening) symbol on packaging—it shows a jar icon with the number of months."
+      "category": "Warranty & Support",
+      "question": "What warranty do your products come with?",
+      "answer": "All GoCart electronics come with a minimum 1-year manufacturer warranty covering defects in materials and workmanship. Some products like the Home Theater system include a 2-year warranty."
     },
     {
       "id": 17,
-      "category": "Product Usage",
-      "question": "Can I use multiple serums together?",
-      "answer": "Yes, but apply them thinnest to thickest consistency. Wait 30-60 seconds between applications. Avoid mixing retinol with vitamin C or AHAs/BHAs in the same routine."
+      "category": "Warranty & Support",
+      "question": "How do I claim a warranty?",
+      "answer": "Contact our support team at support@gocart.com with your order number and a description of the issue. We'll guide you through the warranty claim process and arrange a replacement or repair."
     },
     {
       "id": 18,
-      "category": "Product Usage",
-      "question": "Should I refrigerate my skincare products?",
-      "answer": "It's not required but can extend shelf life and feel refreshing. Best candidates: vitamin C serums, eye creams, and sheet masks. Avoid refrigerating oil-based products."
+      "category": "Warranty & Support",
+      "question": "My product arrived damaged. What should I do?",
+      "answer": "If your product arrived damaged, contact us within 48 hours of delivery with photos of the damage and your order number. We'll send a replacement at no charge or issue a full refund."
     },
     {
       "id": 19,
       "category": "Account & Loyalty",
       "question": "How does your rewards program work?",
-      "answer": "Earn 1 point per dollar spent. 100 points = $5 reward. Members get early access to sales, birthday gifts, and exclusive offers. Sign up free on our website."
+      "answer": "Earn 1 point per dollar spent. 100 points = $5 reward. Members get early access to sales, exclusive deals, and priority customer support. Sign up free on our website."
     },
     {
       "id": 20,
