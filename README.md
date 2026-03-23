@@ -12,15 +12,11 @@ This chatbot handles all of it automatically by responding to customers instantl
 The results are faster response times and overall happier customers
 
 
-## Video Demo
+## Live Demo
 
-https://github.com/user-attachments/assets/1e617f23-e335-4572-acdb-c22d8996cc03
+The chatbot is deployed on a demo e-commerce storefront. Try it out:
 
-
-## Live link: try it out for yorself
-**NB**: the chatbot was deployed on a random sites as a chat widget for demo purposes only, here's the link
-
-https://gocart-production-dfb2.up.railway.app/
+**[https://gocart-production-dfb2.up.railway.app/](https://gocart-production-dfb2.up.railway.app/)**
 
 
 
