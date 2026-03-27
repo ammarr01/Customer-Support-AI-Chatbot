@@ -44,7 +44,7 @@ The chatbot is deployed on a demo e-commerce storefront. Try it out:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/amvvr1/demo-chatbot.git
+git clone https://github.com/ammarr01/Customer-Support-AI-Chatbot.git
 cd support chatbot
 ```
 
