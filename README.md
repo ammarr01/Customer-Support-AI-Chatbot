@@ -16,7 +16,7 @@ The results are faster response times and overall happier customers
 
 The chatbot is deployed on a demo e-commerce storefront. Try it out:
 
-**[https://gocart-production-dfb2.up.railway.app/](https://gocart-production-dfb2.up.railway.app/)**
+**[https://gocart-production-dfb2.up.railway.app/](https://gocart-production-d865.up.railway.app/)**
 
 
 
