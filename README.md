@@ -12,14 +12,6 @@ This chatbot handles all of it automatically by responding to customers instantl
 The results are faster response times and overall happier customers
 
 
-## Live Demo
-
-The chatbot is deployed on a demo e-commerce storefront. Try it out:
-
-**[https://gocart-production-dfb2.up.railway.app/](https://gocart-production-d865.up.railway.app/)**
-
-
-
 ## Use Cases
 
 - **E-commerce Support**: Order status, returns, product questions
